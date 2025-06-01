@@ -14,7 +14,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
-
 # 🛠️ Technologies and Tools
 
 ## 🔧 Backend
@@ -40,8 +39,6 @@
 | Paradigma | Arquitectura |
 |----------|--------------|
 | <img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/images/mvc.png" alt="mvc" width="40" height="40"/> | <img src="https://static.vecteezy.com/system/resources/previews/028/033/553/non_2x/oop-icon-free-vector.jpg" alt="oop" width="40" height="40"/> |
-
-
 
 ## 💻 Sistemas Operativos
 
