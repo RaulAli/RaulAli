@@ -7,6 +7,12 @@
 🤝 Me considero una persona comprometida, con iniciativa y gran capacidad para trabajar en equipo.  
 🚀 Estoy en constante aprendizaje y busco una oportunidad que me permita seguir creciendo a nivel profesional.
 
+### Practica github actions
+
+### 📊 Lenguajes más usados (Metrics)
+![Metrics](https://raw.githubusercontent.com/RaulAli/RaulAli/main/github-metrics.svg)
+
+
 ---
 
 <p align="center">
