@@ -1,5 +1,8 @@
 name: Profile Metrics
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 6 * * 1"
@@ -13,7 +16,11 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""                       
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          output_action: commit
+
+          base: ""
           template: classic
           config_timezone: Europe/Madrid
 
